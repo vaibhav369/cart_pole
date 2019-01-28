@@ -1,0 +1,3 @@
+This file consists of the changes that are pending for the next day.
+
+1. Add another file which uses the trained model, and save videos for the environment and upload to it github.
